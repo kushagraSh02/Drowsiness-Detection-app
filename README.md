@@ -7,11 +7,11 @@ The CNN model architecture consists of the following layers:
 
 Convolutional layer; 32 nodes, kernel size 3
 
-Convolutional layer; 32 nodes, kernel size 3
-
 Convolutional layer; 64 nodes, kernel size 3
 
-Fully connected layer; 128 nodes
+Convolutional layer; 128 nodes, kernel size 3
+
+Fully connected layer; 256 nodes
 
 ### **Dependencies**
 ```
